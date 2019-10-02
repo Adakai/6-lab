@@ -2,4 +2,4 @@
 
 ## the github pages URL is :
 
-https://adakai.github.io/Lab5/lab5-immproved.html
+https://adakai.github.io/6-lab/lab5-immproved.html
